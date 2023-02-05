@@ -2,7 +2,7 @@
 ![teaser](assets/teaser.png)
 
 ## News
-**2023.02.05** Pre-Release code
+**2023.02.05** Pre-Release code :partying_face: :partying_face:
 
 ## TO-DO Lists
 - [ ] Upload pre-trained weight 
