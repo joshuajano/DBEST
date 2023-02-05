@@ -19,3 +19,10 @@ Before training the noise model, please initialize the weight from the pretraine
 ```
 python finetune.py
 ```
+
+#### Step 2: Inner Loop Finetuning
+For text recognition model, please use the origin weight from [ABINet](https://github.com/FangShancheng/ABINet). 
+By using the pre-traind from *outer loop* process, go to `inner-loop/` directory and run
+```
+python prototype.py
+```
