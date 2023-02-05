@@ -3,6 +3,12 @@
 
 ## News
 
+## Demo
+go to `inner-loop/` directory and run
+```
+python prototype.py
+```
+
 ## Run MATES
 
 #### Step 1: Generate Synthesized Text Scene Dataset 
