@@ -4,6 +4,9 @@
 ## News
 **2023.02.05** Pre-Release code
 
+## TO-DO Lists
+- [] Upload pre-trained weight 
+
 ## Demo
 go to `inner-loop/` directory and run
 ```
