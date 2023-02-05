@@ -13,3 +13,6 @@ Please go to `generate-syntext/` directory and run
 ```
 python datagen.py
 ```
+
+#### Step 2: Outer Loop Training
+
