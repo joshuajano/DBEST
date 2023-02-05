@@ -1,2 +1,2 @@
-# On ModulAting Text Scene (MATES)
+# On ModulAting TExt Scene (MATES)
 
