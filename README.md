@@ -8,8 +8,8 @@
 - [ ] Upload pre-trained weight 
 
 ## Requirements
-In our implementation, we use text2image pre-trained weight from [Latent Diffusion Model (LDM)](https://github.com/CompVis/latent-diffusion). Please download the pre-trained weight from their official github. Alternatively, you can use directly from [Diffusers](https://huggingface.co/docs/diffusers/index) library (version 0.3.0).
-
+1. In our implementation, we use text2image pre-trained weight from [Latent Diffusion Model (LDM)](https://github.com/CompVis/latent-diffusion). Please download the pre-trained weight from their official github. Alternatively, you can use directly from [Diffusers](https://huggingface.co/docs/diffusers/index) library (version 0.3.0).
+2. Please note that our method requires a cropped text. You may use [EAST](https://pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/) for cropping the text or manual crop. 
 ## Demo
 go to `inner-loop/` directory and run
 ```
