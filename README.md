@@ -7,6 +7,9 @@
 ## TO-DO Lists
 - [ ] Upload pre-trained weight 
 
+## Requirements
+In our implementation, we use text2image pre-trained weight from [Latent Diffusion Model (LDM)](https://github.com/CompVis/latent-diffusion). Please download the pre-trained weight from their official github. Alternatively, you can use directly from [Diffusers](https://huggingface.co/docs/diffusers/index) library (version 0.3.0).
+
 ## Demo
 go to `inner-loop/` directory and run
 ```
