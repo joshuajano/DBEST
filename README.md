@@ -13,7 +13,7 @@ go to `inner-loop/` directory and run
 python prototype.py
 ```
 
-## Run MATES
+## Run DBEST
 
 #### Step 1: Generate Synthesized Text Scene Dataset 
 You can download our SynText dataset on [this](https://drive.google.com/drive/folders/10DPeYjcpqO_Pxi3KC4kGitGW0Ytc3Eo1?usp=sharing).
