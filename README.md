@@ -1,4 +1,4 @@
-# On ModulAting TExt Scene (MATES)
+# :fire: :fire: On Manipulating Scene Text in the Wild with Diffusion Models (DBEST) WACV 2024 :fire: :fire:
 ![teaser](assets/teaser.png)
 
 ## News
