@@ -41,3 +41,6 @@ By using the pre-traind from *outer loop* process, go to `inner-loop/` directory
 ```
 python prototype.py
 ```
+
+# FAQs & Discussion
+
