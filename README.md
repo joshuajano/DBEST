@@ -43,11 +43,11 @@ python prototype.py
 ```
 
 # FAQs & Discussion
-**Q: What is the sampling method used in this paper?**
-_A: We use Denoising Diffusion Implicit Models (DDIM) and Pseudo Numerical Methods for Diffusion Models on Manifolds (PNDM) as implemented by diffusers and we used a normalized guidance scale (gs) 0-1._
-**Q: Is there any post-processing step?**
-_A: Yes. We apply the color transfer method to enhance the final result's quality._ 
-**Q: How to generate the Syntext dataset?**
-_A: Yes. Please refer to the original [srnet](https://github.com/Niwhskal/SRNet) repository. We heavily used their code and only changed the parameters._
-**Q: Why the result is broken?**
-_A: You should check the diffusers version. I tried to re-implement my code with the newest version of diffusers and found some of my code should be tuned. My code used the earlier diffusers and some of the functions are overrided by myself. If you have any questions, please send me an email or just write in the issue._
+**Q: What is the sampling method used in this paper?**\\
+_A: We use Denoising Diffusion Implicit Models (DDIM) and Pseudo Numerical Methods for Diffusion Models on Manifolds (PNDM) as implemented by diffusers and we used a normalized guidance scale (gs) 0-1._\\
+**Q: Is there any post-processing step?**\\
+_A: Yes. We apply the color transfer method to enhance the final result's quality._ \\
+**Q: How to generate the Syntext dataset?**\\
+_A: Yes. Please refer to the original [srnet](https://github.com/Niwhskal/SRNet) repository. We heavily used their code and only changed the parameters._\\
+**Q: Why the result is broken?**\\
+_A: You should check the diffusers version. I tried to re-implement my code with the newest version of diffusers and found some of my code should be tuned. My code used the earlier diffusers and some of the functions are overrided by myself. If you have any questions, please send me an email or just write in the issue._\\
