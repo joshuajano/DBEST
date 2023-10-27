@@ -59,4 +59,6 @@ _A: Yes. Please refer to the original [srnet](https://github.com/Niwhskal/SRNet)
 
 _A: You should check the diffusers version. I tried to re-implement my code with the newest version of diffusers and found some of my code should be tuned. My code used the earlier diffusers and some of the functions are overrided by myself. If you have any questions, please send me an email or just write in the issue._
 
+**Q: For any discussion and input?**
 
+_A: I open for any discussion and input. Please send me an email to janojoshua_at_gmail_dot_com._
