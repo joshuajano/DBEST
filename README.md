@@ -43,4 +43,8 @@ python prototype.py
 ```
 
 # FAQs & Discussion
+```
+**Q: What is the sampling method used in this paper?**__
+A: We use Denoising Diffusion Implicit Models (DDIM) and Pseudo Numerical Methods for Diffusion Models on Manifolds (PNDM) as implemented by diffusers and we used a normalized guidance scale (gs) 0-1._
 
+```
