@@ -12,12 +12,6 @@
 2. Please note that our method requires a **cropped text**. You may use [EAST](https://pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/) for cropping the text or manual crop. 
 3. For training LDM with Syntext, please download [Syntext](https://www.robots.ox.ac.uk/~vgg/data/scenetext/).
 
-## Demo
-go to `inner-loop/` directory and run
-```
-python prototype.py
-```
-
 ## Run DBEST
 
 #### Step 1: Generate Synthesized Text Scene Dataset 
@@ -37,9 +31,9 @@ python finetune.py
 
 #### Step 2: Inner Loop Finetuning
 For text recognition model, please use the origin weight from [ABINet](https://github.com/FangShancheng/ABINet). 
-By using the pre-traind from *outer loop* process, go to `inner-loop/` directory and run
+After that, please run 
 ```
-python prototype.py
+python gradio_dbest.py
 ```
 
 # FAQs & Discussion
