@@ -1,0 +1,4 @@
+*.pyc
+ic_13_eval
+.git
+__pycache__/
